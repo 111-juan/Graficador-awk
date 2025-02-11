@@ -133,13 +133,19 @@ Este es un script en AWK que permite evaluar una función matemática en un rang
 4. **Resultados**:
    - Si elegiste generar un gráfico, el archivo `grafico.png` será creado en el mismo directorio.
    - Si optaste por la representación en la terminal, se mostrará una tabla de valores junto con un gráfico sencillo usando asteriscos.
+     
 
 
 ## Notas
 
 - Si no tienes `gnuplot` instalado y decides generar el gráfico, el script te pedirá que lo instales o te avisará que no puede generar el gráfico.
 - Este script solo evalúa funciones matemáticas en términos de \(x\) y no soporta funciones más complejas o variables adicionales.
+- 
 
+
+## Archivos disponibles
+
+- [graficador.awk](graficador.awk): El script en `awk` para graficar funciones matemáticas.
 
 
 
