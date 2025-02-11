@@ -18,14 +18,14 @@ Este es un script en AWK que permite evaluar una función matemática en un rang
 
 1. **Preparación**:
    - Asegúrate de tener AWK y, si deseas, `gnuplot` instalados en tu sistema.
-   - Guarda el código en un archivo con extensión `.awk` (por ejemplo, `grafico.awk`).
+   - Guarda el código en un archivo con extensión `.awk` (por ejemplo, `graficador.awk`).
 
 2. **Ejecución del script**:
-   - Abre una terminal y navega al directorio donde guardaste el archivo `grafico.awk`.
+   - Abre una terminal y navega al directorio donde guardaste el archivo `graficador.awk`.
    - Ejecuta el siguiente comando:
 
      ```bash
-     awk -f grafico.awk
+     ./graficador.awk
      ```
 
 3. **Interacción con el script**:
